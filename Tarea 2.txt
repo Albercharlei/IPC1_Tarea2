@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>Tabla HTML</title>
+</head>
+
+<body>
+<table aling=?center? cellspacing=?1? border=?1?>
+<tr>
+	<td align=?center?>NOMBRE</td>
+	<td align=?center?>CARNET</td>
+	<td align=?center?>FOTO</td>
+</tr>
+<tr>
+	<td>Carlos Avalos</td>
+	<td align=?center?>200815533</td>
+	<td><img src="https://photos-1.dropbox.com/t/2/AACz5nUkH-CyzUR76TpAE1007aKffOoKuZHtOwx99v39ew/12/7807078/jpeg/1024x768/3/1424898000/0/2/imprimir%20copia.JPG/CObA3AMgASACIAMoASgC/U2eoUDsNvBexMO2xH8WBAcY4YFogl8diyk2ejbGHsNQ"
+</td>
+</tr>
+</table>
+
+</body>
+</html>
